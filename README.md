@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## 🤔 I’m looking for help with ... 
 - ROR
 ## 💬 Ask me about ...  
--Anything
+- Anything
 # you can reach me on the following accounts:
 1.GitHub: [@che30](https://github.com/che30)
 2. Twitter: [@BlanchardNsoh](https://twitter.com/BlanchardNsoh )
