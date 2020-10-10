@@ -5,6 +5,9 @@
 Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on the following in microverse
+* HTML/CSS
+* Ruby and Ruby on Rails
+* Javascript React and Redux
 ## 🌱 I’m currently learning ...
 - HTML/CSS
 ## 👯 I’m looking to collaborate on ...
