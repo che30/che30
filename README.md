@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Anything
 # you can reach me on the following accounts:
 1.GitHub: [@che30](https://github.com/che30)
-2. Twitter: [@BlanchardNsoh](https://twitter.com/BlanchardNsoh )
+2. Twitter: [@che55085128](https://twitter.com/che55085128 )
 3. LinkedIn: [Che Blanchard](https://www.linkedin.com/in/che-nsoh-9455271b0/)
 
 
