@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### 😄 Pronouns: ... HE/HIM
 - ⚡ Fun fact: ...  I love football and video games
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/che30)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=che30)](https://github.com/anuraghazra/github-readme-stats)
