@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-## 🔭 I’m currently working on the following in microverse
+## 🔭 I’m currently working on the following in Microverse
 * HTML/CSS
 * Ruby and Ruby on Rails
 * Javascript React and Redux
 ## 🌱 I’m currently learning ...
-- RUBY and RAILS
+- REACT and REDUX
 ## 👯 I’m looking to collaborate on ...
 - RAILS/HTML/CSS/javascript/React/Redux
 ## 🤔 I’m looking for help with ... 
