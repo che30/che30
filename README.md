@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 ## Courses and Certifications
-* HTML/CSS: (https://www.credential.net/84b72a09-1819-4088-8261-02bb7ff286a9#gs.xhz8qp)
+* [HTML/CSS](https://www.credential.net/84b72a09-1819-4088-8261-02bb7ff286a9#gs.xhz8qp)
 
 ## 🔭 I’m currently working on the following in Microverse
 * HTML/CSS
