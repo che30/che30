@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 ## Courses and Certifications
 * HTML: [<a target="_blank" rel="noopener noreferrer" 
             href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-                <img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"/></a> and CSS <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"/>CERTIFICATION</a>](https://www.credential.net/84b72a09-1819-4088-8261-02bb7ff286a9#gs.xhz8qp)
+                <img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"/></a> and CSS <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"/></a>][CERTIFICATION](https://www.credential.net/84b72a09-1819-4088-8261-02bb7ff286a9#gs.xhz8qp)
 
 ## 🔭 I’m currently working on the following in Microverse
 * HTML/CSS
