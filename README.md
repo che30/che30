@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 * HTML: <a target="_blank" rel="noopener noreferrer" 
             href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
                 <img height="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"/></a> and CSS <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"/></a>[CERTIFICATION](https://www.credential.net/84b72a09-1819-4088-8261-02bb7ff286a9#gs.xhz8qp)
-* Ruby:  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" style="max-width: 100%;"/></a>[CREDENTIALS](https://www.credential.net/2431f20f-b7ab-4419-b76f-685c8935e46f)
+* Ruby:  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" style="max-width: 100%;"/></a>[CREDENTIALS] (https://www.credential.net/2431f20f-b7ab-4419-b76f-685c8935e46f)
 
 ## 🔭 I’m currently working on the following in Microverse
 * HTML/CSS
