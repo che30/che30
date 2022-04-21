@@ -3,13 +3,15 @@
 
 
 Here are some ideas to get you started:
+## Courses and Certifications
+* HTML/CSS: (https://www.credential.net/84b72a09-1819-4088-8261-02bb7ff286a9#gs.xhz8qp)
 
 ## 🔭 I’m currently working on the following in Microverse
 * HTML/CSS
 * Ruby and Ruby on Rails
 * Javascript React and Redux
 ## 🌱 I’m currently learning ...
-- REACT and REDUX
+- Python and Django
 ## 👯 I’m looking to collaborate on ...
 - RAILS/HTML/CSS/javascript/React/Redux
 ## 🤔 I’m looking for help with ... 
