@@ -1,5 +1,5 @@
 
-# PASSIONATE ABOUT PROGRAMMING AND SOFTWARE DEVELOPMENT
+# Call me when there is a real algorithmic challenge of course one that can bring help to humanity and ease life.
 
 
 Here are some ideas to get you started:
