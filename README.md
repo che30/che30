@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 * Redux: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"><img height="20" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" style="max-width: 100%;"></a> [React and Redux Certificate](https://www.credential.net/7caf0825-faf4-40de-976f-96996c8230c5)
 
 ## 🔭 I’m currently working on the following in Microverse
-* HTML/CSS
-* Ruby and Ruby on Rails
-* Javascript React and Redux
+* Improving on my technical and Soft skills
 ## 🌱 I’m currently learning ...
 - Python and Django
 ## 👯 I’m looking to collaborate on ...
-- RAILS/HTML/CSS/javascript/React/Redux
+- RAILS/HTML/CSS/javascript/React/Redux/Python/Django
 ## 🤔 I’m looking for help with ... 
-- ROR
+- Job searching
 ## 💬 Ask me about ...  
 - Anything
 # you can reach me on the following accounts:
