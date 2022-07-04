@@ -1,5 +1,5 @@
 
-# Call me when there is a real algorithmic challenge of course one that can bring help to humanity and ease life.
+# I help people bring their thoughts to fruition.
 
 
 Here are some ideas to get you started:
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on the following in Microverse
 * Improving on my technical and Soft skills
 ## 🌱 I’m currently learning ...
-- Python and Django
+- Python and Django docker
 ## 👯 I’m looking to collaborate on ...
 - RAILS/HTML/CSS/javascript/React/Redux/Python/Django
 ## 🤔 I’m looking for help with ... 
